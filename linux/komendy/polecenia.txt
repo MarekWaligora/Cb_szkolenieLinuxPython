@@ -1,0 +1,1 @@
+mkdir,rmdir, cd, ls - alht,touch, cat,cp,rm,mv

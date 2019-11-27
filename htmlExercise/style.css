@@ -1,0 +1,13 @@
+body{
+    background-color:blue;
+    display:block;
+}
+
+.container{
+    margin:0px;
+    text-align: center;
+    
+}
+.container h1{
+    color:white;
+}
